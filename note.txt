@@ -1,0 +1,8 @@
+I want to receipt 2 float input and 1 operator
+main function:
+1. get_input() -> accept 2 float number and 1 operator
+2. calculate(num1, num2, operator) -> return result
+3. display_result(result)
+if I insert invalid operator or divided by 0 -> should show error or something
+
+---- we done for the fundamental of calculator ---
