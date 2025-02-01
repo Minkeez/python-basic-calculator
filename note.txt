@@ -6,3 +6,10 @@ main function:
 if I insert invalid operator or divided by 0 -> should show error or something
 
 ---- we done for the fundamental of calculator ---
+
+then I want to create try/except to make sure we receipt the right input from user
+we finished, but I want to separate function into separate files or module
+I change my mind XD, I want to refactor when I finish the project!
+sorry I am not good at English TT
+
+let's break 5 mins!

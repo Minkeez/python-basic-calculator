@@ -1,9 +1,13 @@
 # create get_input() function
 def get_inputs():
-  num1 = float(input("Enter first number: "))
-  operator = input("Enter operator (+, -, *, /): ")
-  num2 = float(input("Enter second number: "))
-  return num1, operator, num2
+  try:
+    num1 = float(input("Enter first number: "))
+    operator = input("Enter operator (+, -, *, /): ")
+    num2 = float(input("Enter second number: "))
+    return num1, operator, num2
+  except ValueError:
+    print("Error: Please enter valid numbers.")
+    return None, None, None
 
 # create calculate() function
 def calculate(num1, num2, operator):
