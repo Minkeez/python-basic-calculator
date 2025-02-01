@@ -13,3 +13,15 @@ I change my mind XD, I want to refactor when I finish the project!
 sorry I am not good at English TT
 
 let's break 5 mins!
+
+ok we must keep going!
+
+then I want to focusing on UI of the calculator and testing too.
+1. testing - manual test / unittest(future)
+2. display settings and ask some question
+
+ah sorry, I forget
+
+--- We finished in the UI design for beginner project ---
+
+so finish, you can add new feature by your own! bye
